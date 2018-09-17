@@ -1,0 +1,15 @@
+li{
+	list-style: none;
+  	display: inline-block;
+  	padding: 5px;
+}
+body{
+	background-color: #42d9f4;
+	color: white;
+	font-family: Verdana;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+}
